@@ -14,6 +14,9 @@
 ✨ 𝑴𝒚 𝒈𝒐𝒂𝒍 𝒊𝒔 𝒕𝒐 𝒃𝒆𝒄𝒐𝒎𝒆 𝒂 𝒘𝒆𝒍𝒍-𝒌𝒏𝒐𝒘𝒏 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒊𝒏 𝒕𝒉𝒆 𝒊𝒏𝒅𝒖𝒔𝒕𝒓𝒚.
   <br/>
   <br/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
   <br/>
   🛠 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
   <br/>
@@ -66,7 +69,8 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;&logo=GitHub&amp;logoColor=white" style="max-width:100%;">
   <br/>
   <br/>
-  <br/> 
+  <br/>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIM602&theme=discord_old_blurple&show_icons=true)
+  
 </div>
