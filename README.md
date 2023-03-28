@@ -14,8 +14,10 @@
 ✨ 𝑴𝒚 𝒈𝒐𝒂𝒍 𝒊𝒔 𝒕𝒐 𝒃𝒆𝒄𝒐𝒎𝒆 𝒂 𝒘𝒆𝒍𝒍-𝒌𝒏𝒐𝒘𝒏 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 𝒊𝒏 𝒕𝒉𝒆 𝒊𝒏𝒅𝒖𝒔𝒕𝒓𝒚.
   <br/>
   <br/>
+  <br/>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
   <br/>
   <br/>
   🛠 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞
