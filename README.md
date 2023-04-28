@@ -34,8 +34,8 @@
   <br/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&amp;&logo=Spring&amp;logoColor=white" style="max-width:100%;">
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&amp;&logo=Spring Security&amp;logoColor=white" style="max-width:100%;">
-  <br/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&amp;&logo=Spring Boot&amp;logoColor=white" style="max-width:100%;">
+  <br/>
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&amp;&logo=JPA&amp;logoColor=white" style="max-width:100%;">
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat&amp;&logo=thymeleaf&amp;logoColor=white" style="max-width:100%;">
   <br/>
