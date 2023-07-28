@@ -71,6 +71,7 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&amp;&logo=MariaDB&amp;logoColor=white" style="max-width:100%;">
   <br/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;&logo=GitHub&amp;logoColor=white" style="max-width:100%;">
+  <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&amp;&logo=postman&amp;logoColor=white" style="max-width:100%;">
   <br/>
   <br/>
   <br/>
