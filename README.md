@@ -68,7 +68,7 @@
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&amp;&logo=Eclipse IDE&amp;logoColor=white" style="max-width:100%;">
   <img src="https://img.shields.io/badge/STS-93c47d?style=flat&amp;&logo=STS&amp;logoColor=white" style="max-width:100%;">
   <img src="https://img.shields.io/badge/IntelliJ IDEA-8e7cc3?style=flat&amp;&logo=IntelliJ IDEA&amp;logoColor=white" style="max-width:100%;">
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&amp;&logo=Visual Studio&amp;logoColor=white" style="max-width:100%;">
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&amp;&logo=visualstudiocode&amp;logoColor=white" style="max-width:100%;">
   <br/>
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&amp;&logo=ORACLE&amp;logoColor=white" style="max-width:100%;">
   <img src="https://img.shields.io/badge/SQL Developer-ea9999?style=flat&amp;&logo=SQL Developer&amp;logoColor=white" style="max-width:100%;">
@@ -77,6 +77,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;&logo=GitHub&amp;logoColor=white" style="max-width:100%;">
   <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&amp;&logo=postman&amp;logoColor=white" style="max-width:100%;">
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat&amp;&logo=androidstudio&amp;logoColor=white" style="max-width:100%;">
+  <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat&amp;&logo=apachetomcat&amp;logoColor=white" style="max-width:100%;">
   <br/>
   <br/>
   <br/>
