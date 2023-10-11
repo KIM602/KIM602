@@ -51,16 +51,17 @@
   <br/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&amp;&logo=Bootstrap&amp;logoColor=white" style="max-width:100%;">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&amp;&logo=jQuery&amp;logoColor=white" style="max-width:100%;">
-  <img src="https://img.shields.io/badge/dart-0175C2?style=flat&amp;&logo=dart&amp;logoColor=white" style="max-width:100%;">
+  <img src="https://img.shields.io/badge/dart-0175C2?style=flat&amp;&logo=Dart&amp;logoColor=white" style="max-width:100%;">
   <br/>
-  <img src="https://img.shields.io/badge/flutter-02569B?style=flat&amp;&logo=flutter&amp;logoColor=white" style="max-width:100%;">
+  <img src="https://img.shields.io/badge/flutter-02569B?style=flat&amp;&logo=Flutter&amp;logoColor=white" style="max-width:100%;">
   <br/>
   <br/>
   [  🇩 🇦 🇹 🇦 🇧 🇦 🇸 🇪  ]
   <br/>
   <img src="https://img.shields.io/badge/ORACLE SQL-880808?style=flat&amp;&logo=ORACLE SQL&amp;logoColor=white" style="max-width:100%;">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&amp;&logo=MySQL&amp;logoColor=white" style="max-width:100%;">
-  <img src="https://img.shields.io/badge/amazonrds-527FFF?style=flat&amp;&logo=amazonrds&amp;logoColor=white" style="max-width:100%;">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&amp;&logo=MariaDB&amp;logoColor=white" style="max-width:100%;">
+  <img src="https://img.shields.io/badge/amazonrds-527FFF?style=flat&amp;&logo=AmazonRDS&amp;logoColor=white" style="max-width:100%;">
   <br/>
   <br/>
   [  🇹 🇴 🇴 🇱  ]
@@ -68,16 +69,15 @@
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&amp;&logo=Eclipse IDE&amp;logoColor=white" style="max-width:100%;">
   <img src="https://img.shields.io/badge/STS-93c47d?style=flat&amp;&logo=STS&amp;logoColor=white" style="max-width:100%;">
   <img src="https://img.shields.io/badge/IntelliJ IDEA-8e7cc3?style=flat&amp;&logo=IntelliJ IDEA&amp;logoColor=white" style="max-width:100%;">
-  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&amp;&logo=visualstudiocode&amp;logoColor=white" style="max-width:100%;">
   <br/>
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&amp;&logo=visualstudiocode&amp;logoColor=white" style="max-width:100%;">
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&amp;&logo=ORACLE&amp;logoColor=white" style="max-width:100%;">
   <img src="https://img.shields.io/badge/SQL Developer-ea9999?style=flat&amp;&logo=SQL Developer&amp;logoColor=white" style="max-width:100%;">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&amp;&logo=MariaDB&amp;logoColor=white" style="max-width:100%;">
   <br/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;&logo=GitHub&amp;logoColor=white" style="max-width:100%;">
   <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&amp;&logo=postman&amp;logoColor=white" style="max-width:100%;">
-  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat&amp;&logo=androidstudio&amp;logoColor=white" style="max-width:100%;">
-  <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat&amp;&logo=apachetomcat&amp;logoColor=white" style="max-width:100%;">
+  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat&amp;&logo=Android Studio&amp;logoColor=white" style="max-width:100%;">
+  <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat&amp;&logo=Apache Tomcat&amp;logoColor=white" style="max-width:100%;">
   <br/>
   <br/>
   <br/>
