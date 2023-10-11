@@ -60,6 +60,7 @@
   <br/>
   <img src="https://img.shields.io/badge/ORACLE SQL-880808?style=flat&amp;&logo=ORACLE SQL&amp;logoColor=white" style="max-width:100%;">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&amp;&logo=MySQL&amp;logoColor=white" style="max-width:100%;">
+  <img src="https://img.shields.io/badge/amazonrds-527FFF?style=flat&amp;&logo=amazonrds&amp;logoColor=white" style="max-width:100%;">
   <br/>
   <br/>
   [  🇹 🇴 🇴 🇱  ]
@@ -75,6 +76,7 @@
   <br/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;&logo=GitHub&amp;logoColor=white" style="max-width:100%;">
   <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&amp;&logo=postman&amp;logoColor=white" style="max-width:100%;">
+  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat&amp;&logo=androidstudio&amp;logoColor=white" style="max-width:100%;">
   <br/>
   <br/>
   <br/>
