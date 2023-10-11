@@ -51,6 +51,9 @@
   <br/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&amp;&logo=Bootstrap&amp;logoColor=white" style="max-width:100%;">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&amp;&logo=jQuery&amp;logoColor=white" style="max-width:100%;">
+  <img src="https://img.shields.io/badge/dart-0175C2?style=flat&amp;&logo=dart&amp;logoColor=white" style="max-width:100%;">
+  <br/>
+  <img src="https://img.shields.io/badge/flutter-02569B?style=flat&amp;&logo=flutter&amp;logoColor=white" style="max-width:100%;">
   <br/>
   <br/>
   [  🇩 🇦 🇹 🇦 🇧 🇦 🇸 🇪  ]
