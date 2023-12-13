@@ -54,6 +54,7 @@
   <img src="https://img.shields.io/badge/dart-0175C2?style=flat&amp;&logo=Dart&amp;logoColor=white" style="max-width:100%;">
   <br/>
   <img src="https://img.shields.io/badge/flutter-02569B?style=flat&amp;&logo=Flutter&amp;logoColor=white" style="max-width:100%;">
+  <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=flat&amp;&logo=vuedotjs&amp;logoColor=white" style="max-width:100%;">
   <br/>
   <br/>
   [  🇩 🇦 🇹 🇦 🇧 🇦 🇸 🇪  ]
@@ -79,6 +80,7 @@
   <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat&amp;&logo=Android Studio&amp;logoColor=white" style="max-width:100%;">
   <br/>
   <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat&amp;&logo=Apache Tomcat&amp;logoColor=white" style="max-width:100%;">
+  <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&amp;&logo=nodedotjs&amp;logoColor=white" style="max-width:100%;">
   <br/>
   <br/>
   <br/>
